@@ -13,7 +13,7 @@ const sampleOrders = [
   {
     id: "1",
     type: "buy",
-    amount: 0.5,
+    amount: 0.6,
     price: 35000,
     currency: "BTC",
     paymentMethod: "Bank Transfer",
